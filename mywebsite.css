@@ -1,0 +1,23 @@
+.center{
+    display:flex;
+    flex-direction: row;
+    justify-content:center;
+}
+
+.fontncolor{
+    font-family:Paprus,fantasy;
+    color:beige;
+}
+#backcolor{
+   background-color: #242B64;
+}
+
+  .shows {
+    text-align: center;
+  }
+  
+  .show {
+    display: inline-block;
+    margin: 0 10px;
+    text-align: center;
+  }
